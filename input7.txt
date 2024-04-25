@@ -1,0 +1,3 @@
+this file
+is in CRLF line ending.
+CRLF should be counted as one character.
